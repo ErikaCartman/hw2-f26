@@ -42,14 +42,14 @@ div {
 
 .red {
   margin-left: 50px;
-  border-width: 3px 3px 2px 5px;
+  border-width: 0px 0px 2px 5px;
   background-color: #FF0000;
   text-align: right;
 }
 
 .blue {
   margin-right: 50px;
-  border-width: 2px 5px 3px 3px;
+  border-width: 2px 5px 0px 0px;
   background-color: #0000FF;
   text-align: left;
 }
@@ -62,7 +62,7 @@ div {
 
 .yellow {
   margin-left: 50px;
-  border-width: 3px 3px 2px 5px;
+  border-width: 0px 0px 2px 5px;
   background-color: #FFFF00;
   text-align: right;
 }
@@ -73,7 +73,7 @@ div {
 
 .green {
   margin-right: 50px;
-  border-width: 2px 5px 3px 3px;
+  border-width: 2px 5px 0px 0px;
   background-color: #008500;
   text-align: left;
 }
